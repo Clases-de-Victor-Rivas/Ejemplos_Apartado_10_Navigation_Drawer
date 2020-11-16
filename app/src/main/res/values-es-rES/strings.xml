@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Cerrar navigation drawer</string>
+    <string name="nav_header_desc">Cabecera de navegación</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Galería</string>
+    <string name="menu_slideshow">Presentación</string>
+    <string name="contact_us">Contactar</string>
+    <string name="share">Compartir</string>
+    <string name="contact_fragment">¡Fragmento contactar!</string>
+    <string name="share_fragment">¡Fragmento compartir!</string>
+</resources>
